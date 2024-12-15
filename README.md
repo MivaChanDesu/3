@@ -19,6 +19,3 @@
 - **Изменение последней записи:**
 
 ## Примечания
-
-Apk приложения можно скачать по ссылке
-https://expo.dev/accounts/appurupai/projects/listOfStudents/builds/8ead35e0-04c0-4f15-9a65-7eba8670828c
